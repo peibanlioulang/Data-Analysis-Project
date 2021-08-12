@@ -1,0 +1,10 @@
+This project’s goal is to find out the answer of
+question”Should I go to see the movie Frozen2?” by analyzing
+2000 tweets scraped from twitter. I divided this question to two
+questions. First one is by getting the score of a sentiment analysis
+to see how people feel about this movie. Second, by finding
+out the top 50 word to see how people describe this movie. By
+go thorough sentiment analysis and exploratory analysis, most
+people feel not bad about this movie and they used many good
+word to describe this movie. So, the final answer for the question
+is that Frozen2 is a movie worth to see.
